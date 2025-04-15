@@ -1,2 +1,21 @@
-# My_Portfolio
- Personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and contact info.
+# 💼 Abhishek Mishra - Portfolio Website
+
+Welcome to my personal portfolio website! This project highlights my journey as a web developer, showcasing my technical skills, featured projects, resume, and ways to connect with me.
+
+## 🚀 Features
+- Clean, modern responsive design
+- Project showcase section
+- About me & contact form
+- Built using HTML, CSS, JavaScript (Vanilla)
+
+## 🌐 Live Preview
+[View My Portfolio](https://yourusername.github.io/portfolio)
+
+## 📂 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 
+
+## 📬 Contact
+If you'd like to connect or collaborate, feel free to [reach out](mailto:mishraabhi725@gmail.com)!

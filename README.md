@@ -9,7 +9,7 @@ Welcome to my personal portfolio website! This project highlights my journey as 
 - Built using HTML, CSS, JavaScript (Vanilla)
 
 ## 🌐 Live Preview
-[View My Portfolio](https://yourusername.github.io/portfolio)
+[View My Portfolio](https://abhimishraa.github.io/My_Portfolio/)
 
 ## 📂 Tech Stack
 - HTML5
